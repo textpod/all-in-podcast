@@ -1,5 +1,6 @@
 # Table of contents
 
+* [E98: Big tech starts making cuts, Fed incompetency, global debt, Russia/Ukraine & more](fU6QlvruLTw.md)
 * [E97: SPAC updates, public/private market overview, Putin's end game & more](bcGwHworAo0.md)
 * [E96: Adobe acquires Figma for $20B, TPB SPAC, FedEx CEO's recession warning, macro picture & more](_UpczzfeAFA.md)
 * [E95: Winter is Coming, Europe's energy crisis, Kim Kardashian's new PE firm & more](s0tfoW1N3VM.md)
